@@ -83,7 +83,7 @@ pie title cell cycle 🐱
 - DNA複製與有絲分裂幾乎緊密相連。細胞在 $S$ 期進行 DNA 複製的同時，已經開始出芽並進行紡錘體組裝
 
 <div style="display: flex; gap: 20px">
-    <img src="https://mb.cision.com/Public/5569/3622220/9d99707e1f623cde_org.jpg" style="width: 60%; margin-right: 20%; margin-left: 20%;">
+    <img src="https://mb.cision.com/Public/5569/3622220/9d99707e1f623cde_org.jpg" style="width: 70%; margin-right: 15%; margin-left: 15%;">
 </div>
 
 ##### fission
@@ -92,7 +92,7 @@ pie title cell cycle 🐱
 - 其週期主要透過 $G_2$ 到 $M$ 期的轉變來調節
 
 <div style="display: flex; gap: 20px">
-    <img src="https://i.pinimg.com/originals/25/cd/45/25cd45bf5eaaeb9ecc580b31d3ba7607.jpg" style="width: 70%; margin-right: 15%; margin-left: 15%;">
+    <img src="https://i.pinimg.com/originals/25/cd/45/25cd45bf5eaaeb9ecc580b31d3ba7607.jpg" style="width: 60%; margin-right: 20%; margin-left: 20%;">
 </div>
 
 | 階段 | 出芽酵母 (S. cerevisiae) | 裂殖酵母 (S. pombe) |
