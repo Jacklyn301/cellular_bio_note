@@ -3,15 +3,7 @@ title: cell biology_w12
 
 ---
 
-<style>
-    .markdown-body {
-        max-width: 1000px !important;
-        margin: 0 auto;
-    }
-</style>
 ## W12: the cell cycle
-<span style="color: #8f8f8f">學號: 4113052130<br>科系: 生科2<br>姓名: 徐詠智</span>
-
 ### the cell cycle
 - 所有細胞都是由細胞分裂生成的，例如，細菌變成菌落需要一個晚上持續的細胞分裂，人類的受精卵需要分裂到約 $10^{14}$ 個細胞
 - 細胞分裂跟細胞生長以及DNA複製密切相關
@@ -90,16 +82,19 @@ pie title cell cycle 🐱
 - 在 DNA 複製完成 ( $S$ 期) 與染色體分離 ( $M$ 期) 之間，酵母不像哺乳動物細胞那樣有一個長時間的 $G_2$ 準備期
 - DNA複製與有絲分裂幾乎緊密相連。細胞在 $S$ 期進行 DNA 複製的同時，已經開始出芽並進行紡錘體組裝
 
+<div style="display: flex; gap: 20px">
+    <img src="https://i.pinimg.com/originals/25/cd/45/25cd45bf5eaaeb9ecc580b31d3ba7607.jpg" style="width: 70%; margin-right: 15%; margin-left: 15%;">
+</div>
+
 ##### fission
 - 裂殖酵母 (*Schizosaccharomyces pombe*) 透過兩端伸長的方式生長，並且在中間形成細胞壁，進行分裂
 - 不同於出芽酵母，DNA 複製完成後，會進入一個長時間的 $G_2$ 期，細胞主要進行生長，增加體積，所以他們有正常的細胞周期
 - 其週期主要透過 $G_2$ 到 $M$ 期的轉變來調節
 
+
 <div style="display: flex; gap: 20px">
-    <img src="https://mb.cision.com/Public/5569/3622220/9d99707e1f623cde_org.jpg" style="width: 62%; margin-right: 10px;">
-    <img src="https://i.pinimg.com/originals/25/cd/45/25cd45bf5eaaeb9ecc580b31d3ba7607.jpg" style="width: 38%;">
+    <img src="https://mb.cision.com/Public/5569/3622220/9d99707e1f623cde_org.jpg" style="width: 70%; margin-right: 15%; margin-left: 15%;">
 </div>
-<br>
 
 | 階段 | 出芽酵母 (S. cerevisiae) | 裂殖酵母 (S. pombe) |
 | --- | --- | --- |
