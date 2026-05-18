@@ -66,7 +66,7 @@ title: cell biology_w13
 > 癌細胞的基因裡面常常會出現p53的突變，導致其活性或是數量降低，難以進行細胞週期的暫停 🐱
 
 <div style="display: flex; gap: 20px">
-    <img src="https://raw.githubusercontent.com/Jacklyn301/image_bank/main/function_of_p53_0517.png" style="width: 80%; margin-right: 10%; margin-left: 10%;">
+    <img src="https://raw.githubusercontent.com/Jacklyn301/image_bank/main/function_of_p53_0517.png" style="width: 70%; margin-right: 15%; margin-left: 15%;">
 </div>
 
 ### stages of mitosis
