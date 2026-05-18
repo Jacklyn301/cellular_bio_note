@@ -3,15 +3,7 @@ title: cell biology_w13
 
 ---
 
-<style>
-    .markdown-body {
-        max-width: 1000px !important;
-        margin: 0 auto;
-    }
-</style>
 ## W13: the cell cycle II
-<span style="color: #8f8f8f">學號: 4113052130<br>科系: 生科2<br>姓名: 徐詠智</span>
-
 ### S phase
 #### Cdk2/cyclin E (複習)
 - 這兩個主要負責開啟DNA合成， $S$ phase的進行
