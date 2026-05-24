@@ -3,14 +3,7 @@ title: cell biology_w11
 
 ---
 
-<style>
-    .markdown-body {
-        max-width: 1000px !important;
-        margin: 0 auto;
-    }
-</style>
 ## W11: cell signaling II
-<span style="color: #8f8f8f">學號: 4113052130<br>科系: 生科2<br>姓名: 徐詠智</span>
 ### tyrosine kinase (接續上週)
 #### JAK/STAT pathway
 - 主要負責把細胞外的細胞激素 (cytokines)、生長因子等訊號，快速轉換成基因表現
