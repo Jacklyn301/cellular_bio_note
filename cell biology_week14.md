@@ -3,16 +3,7 @@ title: cell biology_week14
 
 ---
 
-<style>
-    .markdown-body {
-        max-width: 1000px !important;
-        margin: 0 auto;
-    }
-</style>
 ## w14: Cell renewal and cell death
-
-<span style="color: #8f8f8f">學號: 4113052130<br>科系: 生科2<br>姓名: 徐詠智</span>
-
 #### before we start the class...
 
 - 一個人的身上的細胞數量需要維持一定的平衡，通常來說，一個人身上共有 $10^{14}$ 個cell，分化成200種有功能的細胞
