@@ -3,14 +3,7 @@ title: cell biology_w15
 
 ---
 
-<style>
-    .markdown-body {
-        max-width: 1000px !important;
-        margin: 0 auto;     
-</style>
-
 ## w15: Cancer cell
-<span style="color: #8f8f8f">學號: 4113052130<br>科系: 生科2<br>姓名: 徐詠智</span>
 ### before we start the class...
 #### 調控凋亡路徑的訊號通路
 - 包含兩種:
